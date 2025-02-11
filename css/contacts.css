@@ -24,6 +24,10 @@
   margin-bottom: 17px;
 }
 
+.contacts__form {
+  margin-bottom: 50px;
+}
+
 .contacts__form-input {
   width: 423px;
   max-height: 44px;
@@ -53,7 +57,6 @@
   width: 218px;
   margin: 0 auto;
   padding: 11px 38px;
-  margin-bottom: 50px;
 
   box-shadow: 0 4px 25px 0 rgba(21, 169, 203, 0.3);
 
