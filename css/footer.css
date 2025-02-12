@@ -39,6 +39,15 @@
   margin-right: auto;
 }
 
+.footer__bottom {
+  display: none;
+  background-color: transparent;
+}
+
+.footer__author--mobile {
+  display: none;
+}
+
 .footer__contacts {
 }
 
